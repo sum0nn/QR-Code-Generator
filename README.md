@@ -6,4 +6,4 @@ I am pleased to introduce a rudimentary QR code generator, which I have develope
 
 To employ this generator effectively, kindly ensure that you specify the correct directory in your terminal and execute the program. Provide a valid working URL, and the generated QR code in PNG format as well as the text will be updated with each subsequent use.
 
-Wishing you a productive coding experience!
+Wishing you a productive coding experience! :D
